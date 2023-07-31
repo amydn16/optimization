@@ -1,4 +1,4 @@
-% This is written in Matlab
+%% This is written in Matlab
 
 function [w,b] = NP_ALM(X,Y,alpha,z,tol,maxit)
 
