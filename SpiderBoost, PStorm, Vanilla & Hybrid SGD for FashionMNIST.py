@@ -1,5 +1,3 @@
-# This was written in Python
-
 from __future__ import print_function
 import argparse
 import torch
