@@ -1,5 +1,3 @@
-%% This is written in Matlab
-
 function [w,b] = NP_ALM(X,Y,alpha,z,tol,maxit)
 
 [nplus, nminus, iplus, iminus] = get_data(Y); % retrieve data
