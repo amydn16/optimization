@@ -1,5 +1,3 @@
-%% This was written in Matlab
-
 function [L,S] = RPCA_ADMM(X)
 
 %% ADMM
