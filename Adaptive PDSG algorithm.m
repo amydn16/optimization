@@ -1,4 +1,3 @@
-%% adaptive PDSG algorithm
 function [x,runtime,outputs] = adaptPDSG(H,c,Q,a,b,x,lb,ub,m,N,params)
 
 t0 = tic; % start cpu timer
